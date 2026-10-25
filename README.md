@@ -1,3 +1,4 @@
+![Dark violet technology banner](./profile-banner.png)
 # Hi, I'm Albert 👋
 
 ### Full-Stack Web Developer
